@@ -1,0 +1,4 @@
+<map id="kDTree" name="kDTree">
+<area shape="rect" id="node1" title="A class representing a kD&#45;tree for points." alt="" coords="25,98,89,124"/>
+<area shape="rect" id="node2" href="$structkDTree_1_1Node.html" title="Node of the tree: contains parent, children and splitting plane." alt="" coords="5,8,109,33"/>
+</map>

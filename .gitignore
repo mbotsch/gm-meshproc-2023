@@ -1,0 +1,7 @@
+build/
+html/
+.vscode
+CMakeLists.txt.user
+/data/myscan/*
+.DS_Store
+solution/
